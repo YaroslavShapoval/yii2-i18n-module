@@ -29,15 +29,8 @@
         "issues": "https://github.com/notgosu/yii2-i18n-module/issues",
         "source": "https://github.com/notgosu/yii2-i18n-module"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/YaroslavShapoval/zelenin-yii2-widgets"
-        }
-    ],
     "require": {
-        "yiisoft/yii2": "~2",
-        "zelenin/yii2-widgets": "dev-master"
+        "yiisoft/yii2": "~2"
     },
     "autoload": {
         "psr-4": {
