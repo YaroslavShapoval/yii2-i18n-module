@@ -1,5 +1,5 @@
 {
-    "name": "notgosu/yii2-i18n-module",
+    "name": "yaroslav-shapoval/yii2-i18n-module",
     "description": "Yii2 i18n (internalization) module makes the translation of your application so simple",
     "version": "0.1.5",
     "type": "yii2-extension",
@@ -9,7 +9,7 @@
         "translation",
         "translations"
     ],
-    "homepage": "https://github.com/notgosu/yii2-i18n-module",
+    "homepage": "https://github.com/YaroslavShapoval/yii2-i18n-module",
     "time": "2014-11-02",
     "license": "MIT",
     "authors": [
@@ -26,8 +26,8 @@
 	    }
     ],
     "support": {
-        "issues": "https://github.com/notgosu/yii2-i18n-module/issues",
-        "source": "https://github.com/notgosu/yii2-i18n-module"
+        "issues": "https://github.com/YaroslavShapoval/yii2-i18n-module/issues",
+        "source": "https://github.com/YaroslavShapoval/yii2-i18n-module"
     },
     "require": {
         "yiisoft/yii2": "~2"
