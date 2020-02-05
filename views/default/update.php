@@ -10,7 +10,6 @@ use yii\widgets\ActiveForm;
 use yii\widgets\Breadcrumbs;
 use Zelenin\yii\modules\I18n\models\SourceMessage;
 use Zelenin\yii\modules\I18n\Module;
-use Zelenin\yii\widgets\Alert;
 
 $this->title = 'Редактирование' . ': ' . $model->message;
 echo Breadcrumbs::widget(['links' => [
